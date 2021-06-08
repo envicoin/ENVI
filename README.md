@@ -1,0 +1,2 @@
+# ENVI
+EnviCoin (ENVI) contract
